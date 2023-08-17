@@ -1,3 +1,5 @@
+// Guess the number game using core java with console-based interface.
+
 import java.util.Scanner;
 import java.util.Random;
  class TaskCodsoft_1 {
